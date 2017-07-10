@@ -1,0 +1,9 @@
+chr - seq563 scaffold_562 0 106642 green_a4
+chr - seq3 scaffold_2 0 1048610 green_a4
+chr - seq55 scaffold_54 0 557475 green_a4
+chr - seq424 scaffold_423 0 151423 green_a4
+chr - seq134 scaffold_133 0 375142 green_a4
+chr - seq120 scaffold_119 0 396468 green_a4
+chr - seq138 scaffold_137 0 372871 green_a4
+chr - seq365 scaffold_364 0 174678 green_a4
+chr - seq148 scaffold_147 0 364580 green_a4
