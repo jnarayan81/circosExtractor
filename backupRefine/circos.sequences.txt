@@ -1,0 +1,10 @@
+chr - seq2367 scaffold2348_size21628 0 21628 green_a4
+chr - seq1728 scaffold1709_size28195 0 28195 green_a4
+chr - seq806 scaffold787_size84137 0 84137 green_a4
+chr - seq24 scaffold5_size1983198 0 1983198 green_a4
+chr - seq1284 scaffold1265_size87431 0 87431 green_a4
+chr - seq2685 scaffold2666_size18954 0 18954 green_a4
+chr - seq1369 scaffold1350_size33221 0 33221 green_a4
+chr - seq1328 scaffold1309_size33976 0 33976 green_a4
+chr - seq1 scaffold_129 0 385767 green_a4
+chr - seq1353 scaffold1334_size33606 0 33606 green_a4
