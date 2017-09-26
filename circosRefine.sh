@@ -9,6 +9,14 @@ scriptbase=./scripts
 #NOTE: Original circos.segdup.txt circos.sequences.txt and circos.highlight.txt should be in backup folder
 circosLoc=/home/urbe/Tools/circos-0.69-4/bin
 
+allVal=${@}
+
+#Number of arument passed 
+echo $#
+
+if [ $# == 2 ]; then
+    echo "No errors, hooray"
+
 for name1 in "$@"
 do
  echo $name1
@@ -38,5 +46,10 @@ rm -rf *.tmp
 
 #Circos command
 $circosLoc/circos -conf circos.conf
+
+
+else
+    echo "Oops, something went wrong... Perhaps you did not provide right files/names"
+fi
 
 
